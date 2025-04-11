@@ -76,7 +76,8 @@ int main() {
 # SYMBOL FOUND 
 ![Screenshot 2025-04-11 161158](https://github.com/user-attachments/assets/2cd7719f-10f5-4d3e-a069-7cc355ec95e3)
 # SYMBOL NOT FOUND 
-![Screenshot 2025-04-11 161415](https://github.com/user-attachments/assets/ec0b9ed1-e8ce-44e4-9378-0adc4fb64a4b)
+![Screenshot 2025-04-11 161901](https://github.com/user-attachments/assets/307e5a44-b56b-413a-becf-4cee8062bd8d)
+
 
 
 # RESULT
